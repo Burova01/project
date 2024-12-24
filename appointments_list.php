@@ -10,11 +10,11 @@ $appointments = get_appointments();
 <table>
     <thead>
         <tr>
-            <th>Врач</th>
-            <th>Пациент</th>
-            <th>Дата</th>
-            <th>Время</th>
-            <th>Статус</th>        
+            <th>Р’СЂР°С‡</th>
+            <th>РџР°С†РёРµРЅС‚</th>
+            <th>Р”Р°С‚Р°</th>
+            <th>Р’СЂРµРјСЏ</th>
+            <th>РЎС‚Р°С‚СѓСЃ</th>        
 	</tr>
     </thead>
     <tbody>
