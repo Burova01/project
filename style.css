@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+#appointments {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 20px;
+}
+
+.appointment {
+  border: 1px solid #ccc;
+  padding: 10px;
+}
+
